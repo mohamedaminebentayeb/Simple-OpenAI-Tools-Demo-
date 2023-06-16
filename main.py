@@ -1,6 +1,6 @@
 import streamlit as st
 import openai
-openai.organization = "org-cek3Dtba4Wvd4Ce0wXOgU8Vs"
+openai.organization = "organisation_name"
 
 openai.api_key = "your_api_key"
 def count_words(sentence):
