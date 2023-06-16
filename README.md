@@ -14,7 +14,8 @@ Th
 
    ```shell
    pip install streamli
- ## Run your code
+ ## Run the Streamlit application:
+
  
 3. Run : 
     ```shell
