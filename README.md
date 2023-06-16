@@ -6,7 +6,7 @@ This repository demonstrates the use of OpenAI tools with Streamlit. It provides
 
    ```shell
    git clone https://github.com/mohamedaminebentayeb/Simple-OpenAI-Tools-Demo-.git
-Th
+
 
 ## Installation
 
