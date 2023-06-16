@@ -13,7 +13,7 @@ This repository demonstrates the use of OpenAI tools with Streamlit. It provides
 2. install requirement:
 
    ```shell
-   pip install streamli
+   pip install streamlit
  ## Run the Streamlit application:
 
  
