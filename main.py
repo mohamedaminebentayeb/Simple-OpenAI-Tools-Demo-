@@ -58,7 +58,7 @@ if st.button("Perform Action"):
 
         parameters = {
                 "engine": "text-davinci-003",
-                "prompt": 'Traduit le text suivant mot par mot  "{}" : "{}"'.format(target_language, text),
+                "prompt": 'Traduit le text suivant vers la langue "{}"  mot par mot    : "{}"'.format(target_language, text),
                 "max_tokens": 1000,  # Adjust the number of tokens for desired translation length
                 "temperature": 0.5,  # Adjust the temperature for controlling randomness
                 "top_p": 1.0,  # Adjust the top-p value for diversity in output
